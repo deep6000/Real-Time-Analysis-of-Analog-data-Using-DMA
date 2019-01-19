@@ -464,8 +464,8 @@
 							<targetPlatform archList="all" binaryParser="org.eclipse.cdt.core.ELF" id="ilg.gnuarmeclipse.managedbuild.cross.targetPlatform" isAbstract="false" osList="all" superClass="ilg.gnuarmeclipse.managedbuild.cross.targetPlatform"/>
 							<tool id="ilg.gnuarmeclipse.managedbuild.cross.tool.assembler.1444730876" name="Cross ARM GNU Assembler" superClass="ilg.gnuarmeclipse.managedbuild.cross.tool.assembler.142183468">
 								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.include.paths.474923865" name="Include paths (-I)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.include.paths" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;C:\Freescale\KSDK_1.3.0\examples\frdmkl25z\demo_apps\hello_world\kds\code&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\Freescale\KSDK_1.3.0\examples\frdmkl25z\demo_apps\hello_world\kds\header&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Freescale\KSDK_1.3.0\examples\frdmkl25z\demo_apps\ADC_DMA_Transfer\kds\code&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Freescale\KSDK_1.3.0\examples\frdmkl25z\demo_apps\ADC_DMA_Transfer\kds\header&quot;"/>
 								</option>
 								<inputType id="ilg.gnuarmeclipse.managedbuild.cross.tool.assembler.input.1536304363" superClass="ilg.gnuarmeclipse.managedbuild.cross.tool.assembler.input"/>
 							</tool>
